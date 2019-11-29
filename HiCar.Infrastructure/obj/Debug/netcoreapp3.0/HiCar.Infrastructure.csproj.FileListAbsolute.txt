@@ -1,0 +1,8 @@
+C:\kod\HiCar\HiCar\HiCar.Infrastructure\bin\Debug\netcoreapp3.0\HiCar.Infrastructure.deps.json
+C:\kod\HiCar\HiCar\HiCar.Infrastructure\bin\Debug\netcoreapp3.0\HiCar.Infrastructure.dll
+C:\kod\HiCar\HiCar\HiCar.Infrastructure\bin\Debug\netcoreapp3.0\HiCar.Infrastructure.pdb
+C:\kod\HiCar\HiCar\HiCar.Infrastructure\obj\Debug\netcoreapp3.0\HiCar.Infrastructure.csproj.CoreCompileInputs.cache
+C:\kod\HiCar\HiCar\HiCar.Infrastructure\obj\Debug\netcoreapp3.0\HiCar.Infrastructure.AssemblyInfoInputs.cache
+C:\kod\HiCar\HiCar\HiCar.Infrastructure\obj\Debug\netcoreapp3.0\HiCar.Infrastructure.AssemblyInfo.cs
+C:\kod\HiCar\HiCar\HiCar.Infrastructure\obj\Debug\netcoreapp3.0\HiCar.Infrastructure.dll
+C:\kod\HiCar\HiCar\HiCar.Infrastructure\obj\Debug\netcoreapp3.0\HiCar.Infrastructure.pdb

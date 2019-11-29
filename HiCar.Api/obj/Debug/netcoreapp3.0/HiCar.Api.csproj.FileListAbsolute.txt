@@ -1,0 +1,6 @@
+C:\Users\Velan\source\repos\HiCar\HiCar.Api\obj\Debug\netcoreapp3.0\HiCar.Api.csprojAssemblyReference.cache
+C:\Users\Velan\source\repos\HiCar\HiCar.Api\obj\Debug\netcoreapp3.0\HiCar.Api.csproj.CoreCompileInputs.cache
+C:\Users\Velan\source\repos\HiCar\HiCar.Api\obj\Debug\netcoreapp3.0\HiCar.Api.RazorAssemblyInfo.cache
+C:\Users\Velan\source\repos\HiCar\HiCar.Api\obj\Debug\netcoreapp3.0\HiCar.Api.RazorAssemblyInfo.cs
+C:\Users\Velan\source\repos\HiCar\HiCar.Api\obj\Debug\netcoreapp3.0\HiCar.Api.AssemblyInfoInputs.cache
+C:\Users\Velan\source\repos\HiCar\HiCar.Api\obj\Debug\netcoreapp3.0\HiCar.Api.AssemblyInfo.cs

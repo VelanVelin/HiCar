@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HiCar.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:HiCar.WebApi.Controllers.RentalController.GetRental">
+            <summary>
+            Gets rental for customer
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
